@@ -1,0 +1,37 @@
+[
+	{
+		"tahun": "2013",
+		"volsampah": "70",
+		"sampahdiolah": "60",
+		"sampahditangani": "64"
+		
+
+		
+	},
+	{
+		"tahun": "2014",
+		"volsampah": "70",
+		"sampahdiolah": "12",
+		"sampahditangani": "58"
+	},
+	{
+		"tahun": "2015",
+		"volsampah": "71",
+		"sampahdiolah": "12",
+		"sampahditangani": "59"
+		
+	},
+	{
+		"tahun": "2016",
+		"volsampah": "83",
+		"sampahdiolah": "14",
+		"sampahditangani": "69"
+	
+	},
+	{
+		"tahun": "2017",
+		"volsampah": "90",
+		"sampahdiolah": "14",
+		"sampahditangani": "76"
+	}
+]

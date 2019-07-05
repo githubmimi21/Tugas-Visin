@@ -1,0 +1,74 @@
+
+  [
+        {
+            "tahun": "2005",
+            "komposisi": "organik",
+            "persen": "5537",
+            "id": "0",
+            "undefined": "persen"
+        },
+        {
+            "tahun": "2005",
+            "komposisi": "kertas",
+            "persen": "2057",
+            "id": "1",
+            "undefined": "5537"
+        },
+        {
+            "tahun": "2005",
+            "komposisi": "plastik",
+            "persen": "1325",
+            "id": "2",
+            "undefined": "2057"
+        },
+        {
+            "tahun": "2005",
+            "komposisi": "kayu",
+            "persen": "007",
+            "id": "3",
+            "undefined": "1325"
+        },
+        {
+            "tahun": "2005",
+            "komposisi": "kain/tekstil",
+            "persen": "061",
+            "id": "4",
+            "undefined": "007"
+        },
+        {
+            "tahun": "2005",
+            "komposisi": "karet/kulit/tiruan kulit",
+            "persen": "019",
+            "id": "5",
+            "undefined": "061"
+        },
+        {
+            "tahun": "2005",
+            "komposisi": "logam/metal",
+            "persen": "106",
+            "id": "6",
+            "undefined": "019"
+        },
+        {
+            "tahun": "2005",
+            "komposisi": "gelas/kaca",
+            "persen": "191",
+            "id": "7",
+            "undefined": "006"
+        },
+        {
+            "tahun": "2005",
+            "komposisi": "sampah bongkaran",
+            "persen": "081",
+            "id": "8",
+            "undefined": "191"
+        },
+        {
+            "tahun": "2005",
+            "komposisi": "sampah B3",
+            "persen": "152",
+            "id": "9"
+        }
+    
+        
+    ]

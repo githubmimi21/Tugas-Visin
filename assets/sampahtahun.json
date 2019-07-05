@@ -1,0 +1,47 @@
+[
+	{
+		"tahun": "2015",
+		"jktbarat": "2324",
+		"jktselatan": "4223",
+		"jktTimur": "6574",
+		"jktpusat": "8376",
+		"jktutara": "4221"
+
+		
+	},
+	{
+		"tahun": "2016",
+		"jktbarat": "4343",
+		"jktselatan": "7544",
+		"jktTimur": "7685",
+		"jktpusat": "9373",
+		"jktutara": "7658"
+	},
+	{
+		"tahun": "2017",
+		"jktbarat": "5453",
+		"jktselatan": "9765",
+		"jktTimur": "9095",
+		"jktpusat": "19303",
+		"jktutara": "8372"
+		
+	},
+	{
+		"tahun": "2018",
+		"jktbarat": "7854",
+		"jktselatan": "10293",
+		"jktTimur": "12484",
+		"jktpusat": "24958",
+		"jktutara": "9273"
+	
+	},
+	{
+		"tahun": "2019",
+		"jktbarat": "9765",
+		"jktselatan": "20198",
+		"jktTimur": "10342",
+		"jktpusat": "30288",
+		"jktutara": "7943"
+
+	}
+]

@@ -1,0 +1,44 @@
+[
+	{
+		"periode": "1",
+		"Lembang": "2342",
+		"Beacukai": "3212",
+		"Riario": "6232",
+		"Sunter": "2133",
+		"Kebunragunan": "53232"
+	},
+	{
+		"periode": "2",
+		"Lembang": "3232",
+		"Beacukai": "8645",
+		"Riario": "3211",
+		"Sunter": "6433",
+		"Kebunragunan": "1243"
+	},
+	{
+		"periode": "3",
+		"Lembang": "1442",
+		"Beacukai": "0877",
+		"Riario": "4232",
+		"Sunter": "5321",
+		"Kebunragunan": "8653"
+		
+	},
+	{
+		"periode": "4",
+		"Lembang": "9483",
+		"Beacukai": "3028",
+		"Riario": "9224",
+		"Sunter": "2711",
+		"Kebunragunan": "48372"
+	
+	},
+	{
+		"periode": "5",
+		"Lembang": "5322",
+		"Beacukai": "4211",
+		"Riario": "421",
+		"Sunter": "311",
+		"Kebunragunan": "32324"
+	}
+]
